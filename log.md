@@ -3,9 +3,4 @@
 ### Day 1: June 06, 2017
 
 **Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
-1. [Github Commit](link)
-2. [Online IDE](link)
+Solved 5 puzzles on [Project Euler](https://projecteuler.net) in C.
